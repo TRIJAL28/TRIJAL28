@@ -12,7 +12,7 @@
 ## 🌟 About Me
 - 🎯 Currently learning **Java and Web Technologies**
 - 💡 Second year student at  GLA University , Mathura
-- ☕ Fuel: *Chai + Music + Late Nights*
+- ☕ Fuel: *Ice Cream + Music + Late Nights*
 - 📬 Email: **trijalsrivastav@gmail.com**
 
 
