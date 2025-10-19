@@ -60,4 +60,4 @@
 
 <br clear="both">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)h\
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
