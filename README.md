@@ -60,4 +60,4 @@
 
 <br clear="both">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)jfngkjnfgnngv
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)jfn
