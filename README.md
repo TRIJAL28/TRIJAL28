@@ -37,10 +37,9 @@
 ╠══════════════════════════════════════════════╣
  STATUS      : ONLINE 🟢
  ROLE        : Full Stack Developer
- FOCUS       : Machine Learning
  STACK       : MERN
- LANGUAGE    : Java | Python | JavaScript
- LEARNING    : AI • Automation • Backend
+ LANGUAGE    : Java | Python 
+ LEARNING    : Machine Learning • Automation • Backend 
  GOAL        : Build products that matter.
 ╚══════════════════════════════════════════════╝
 ```
@@ -52,6 +51,14 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,tensorflow"/>
 </p>
+
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently learning **Web Dev, DSA  , solving, and designing every day**
+- ⚡ Exploring **Frontend + Backend **
+- 📫 Reach me at **abhaybhadauria8999@gmail.com**  
+- 🎯 Goal: Build **impactful projects & contribute to open source** 
 
 ---
 
