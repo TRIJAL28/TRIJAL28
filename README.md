@@ -56,8 +56,8 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Web Dev, DSA  , solving, and designing every day**
-- ⚡ Exploring **Frontend + Backend **
-- 📫 Reach me at **abhaybhadauria8999@gmail.com**  
+- ⚡ Exploring **Frontend + Backend+Machine Learning+Automation**
+- 📫 Reach me at **trijalsrivastav@gmail.com**  
 - 🎯 Goal: Build **impactful projects & contribute to open source** 
 
 ---
