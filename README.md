@@ -80,6 +80,12 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TRIJAL28&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=TRIJAL28&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TRIJAL28&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 <!--## 📊 GitHub Analytics
 
 <p align="center">
