@@ -4,7 +4,7 @@
 
 <br>
 
-# ⚡ TRIJAL.EXE
+# ⚡                                                            TRIJAL SRIVASTAV
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Trijal+Srivastav;Full+Stack+Developer;Machine+Learning+Explorer;Java+%7C+MERN+%7C+Automation;Always+Building+%26+Learning"/>
 
