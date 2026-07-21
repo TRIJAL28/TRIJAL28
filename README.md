@@ -99,12 +99,9 @@
 
 ## 🐍 Contribution Snake
 
-> After creating this README, add the following GitHub Action from:
-> https://github.com/Platane/snk
->
-> Then display:
->
-> `https://raw.githubusercontent.com/TRIJAL28/TRIJAL28/output/github-contribution-grid-snake-dark.svg`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TRIJAL28/TRIJAL28/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
