@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Trijal+Srivastav;Full+Stack+Developer;Machine+Learning+Explorer;Java+%7C+MERN+%7C+Automation;Always+Building+%26+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=white&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Trijal+Srivastav;Full+Stack+Developer;Machine+Learning+Explorer;Java+%7C+MERN+%7C+Automation;Always+Building+%26+Learning" />
 </p>
 
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Trijal+Srivastav;Full+Stack+Developer;Machine+Learning+Explorer;Java+%7C+MERN+%7C+Automation;Always+Building+%26+Learning"/> -->
