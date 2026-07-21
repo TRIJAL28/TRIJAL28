@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="./assets/banner.png" width="100%" alt="TRIJAL Banner">
 </p>
-<div align="center">
+
+<br>
 
 # ⚡ TRIJAL.EXE
 
