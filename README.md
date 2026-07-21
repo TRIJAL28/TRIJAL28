@@ -4,8 +4,8 @@
 
 <br>
 
-<h1 align="center">⚡ Trijal Srivastav⚡</h1>
-<h3 align="center">🚀 Software Developer | Java • DSA • Backend Development</h3>
+<h1 align="center">  TRIJAL SRIVASTAV  </h1>
+<h3 align="center">  Software Developer | Java • DSA • Backend Development</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00F7FF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
